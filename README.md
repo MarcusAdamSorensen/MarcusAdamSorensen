@@ -34,7 +34,7 @@ Student pursuing a bachelor's degree in Software Engineering at University of So
 
 ## Tools
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=verysalted&show_icons=true&theme=dark" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcusadamsorensen&show_icons=true&theme=dark" />
 
 ![Git](https://img.shields.io/badge/Git-f05030?style=flat-square&logo=git&logoColor=white) 
 ![Vim](https://img.shields.io/badge/Vim-00758f?style=flat-square&logo=vim&logoColor=white) 
