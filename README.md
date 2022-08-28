@@ -2,7 +2,7 @@
 
 # I'm Marc <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>
 
-[![Github](https://img.shields.io/badge/-VerySalted-0e0e0e?style=flat-square&logo=GitHub&logoColor=white&link=github.com/VerySalted)](https://github.com/VerySalted)
+[![Github](https://img.shields.io/badge/-MarcusAdamSorensen-0e0e0e?style=flat-square&logo=GitHub&logoColor=white&link=github.com/MarcusAdamSorensen)](https://github.com/MarcusAdamSorensen)
 [![Mail](https://img.shields.io/badge/-marcuspldk@gmail.com-840010?style=flat-square&logo=gmail&logoColor=white&link=mailto:marcuspldk@gmail.com)](mailto:marcuspldk@gmail.com)
 ![Discord](https://img.shields.io/badge/-Salted%231337-7289da?style=flat-square&logo=Discord&logoColor=white)
 
