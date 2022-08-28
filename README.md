@@ -8,7 +8,7 @@
 
 </div>
 
-Student pursuing a bachelor's degree in Software Engineering at University of Southern Denmark.
+Student pursuing a master's degree in Software Engineering at University of Southern Denmark.
 
 ## Languages
 
