@@ -8,7 +8,7 @@
 
 </div>
 
-Student pursuing a master's degree in Software Engineering at University of Southern Denmark, and part time at Hesehus A/S as a frontend developer.
+Full time Frontend Developer @ Hesehus A/S.
 
 ## Languages
 
@@ -27,7 +27,6 @@ Student pursuing a master's degree in Software Engineering at University of Sout
 ![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=white)
 
 ### Wanting to learn/learning
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-f74c00?style=flat-square&logo=Rust&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
