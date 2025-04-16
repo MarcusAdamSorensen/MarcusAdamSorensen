@@ -4,7 +4,7 @@
 
 [![Github](https://img.shields.io/badge/-MarcusAdamSorensen-0e0e0e?style=flat-square&logo=GitHub&logoColor=white&link=github.com/MarcusAdamSorensen)](https://github.com/MarcusAdamSorensen)
 [![Mail](https://img.shields.io/badge/-marcuspldk@gmail.com-840010?style=flat-square&logo=gmail&logoColor=white&link=mailto:marcuspldk@gmail.com)](mailto:marcuspldk@gmail.com)
-![Discord](https://img.shields.io/badge/-Salted%231337-7289da?style=flat-square&logo=Discord&logoColor=white)
+![Discord](https://img.shields.io/badge/-Bydget-7289da?style=flat-square&logo=Discord&logoColor=white)
 
 </div>
 
